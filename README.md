@@ -38,7 +38,7 @@ Whether you are saving for your next big purchase or simply keeping an eye on yo
 ![image](https://github.com/user-attachments/assets/6f2b39da-6ff4-44bc-878b-7ce7b25ea768)
 
 
-- **Budget Analysis**:  
+- **Budget Analysis (Other User)**:  
 ![image](https://github.com/user-attachments/assets/24772eed-36a6-4b31-b9cd-b1983fffc7b8)
 ![image](https://github.com/user-attachments/assets/274c5d1d-6d28-4451-bdab-7e81768d2fc4)
 
