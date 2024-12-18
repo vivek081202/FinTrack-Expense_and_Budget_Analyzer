@@ -72,9 +72,9 @@ Ensure you have the following installed:
 
     Using chcp Command
     Run the following command before executing your C program:
-       ```bash
-       chcp 65001
-       ```
+    ```bash
+    chcp 65001
+    ```
 
 ### Running the Application
 
