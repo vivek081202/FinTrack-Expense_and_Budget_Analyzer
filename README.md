@@ -11,7 +11,7 @@
 - **Track daily expenses.**
 - **Analyze spending patterns.**
 - **Set and manage budgets.**
-- Gain financial insights to achieve better savings goals.
+- **Gain financial insights to achieve better savings goals.**
 
 Whether you are saving for your next big purchase or simply keeping an eye on your monthly expenses, **FinTrack** is your go-to solution!
 
