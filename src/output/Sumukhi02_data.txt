@@ -1,0 +1,7 @@
+Budget: 56000
+Category: Food | Amount: 4000.00 | Date: 24-11-2024
+Category: Rent | Amount: 5500.00 | Date: 10-11-2024
+Category: Entertainment | Amount: 2300.00 | Date: 05-11-2024
+Category: Utilities | Amount: 6000.00 | Date: 06-11-2024
+Category: Misc | Amount: 24000.00 | Date: 01-10-2024
+Category: Food | Amount: 3000.00 | Date: 26-11-2024
