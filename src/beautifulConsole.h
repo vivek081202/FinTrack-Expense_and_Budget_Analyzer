@@ -36,7 +36,7 @@ void printLightGreen(const char *text) { printf("\033[0;32m%s\033[0m\n", text); 
 void printLightYellow(const char *text) { printf("\033[0;33m%s\033[0m\n", text); }
 void printLightBlue(const char *text) { printf("\033[0;34m%s\033[0m\n", text); }
 void printLightMagenta(const char *text) { printf("\033[0;35m%s\033[0m\n", text); }
-int printLightCyan(const char *text) { printf("\033[0;36m%s\033[0m\n", text); return 1; }
+void printLightCyan(const char *text) { printf("\033[0;36m%s\033[0m\n", text);}
 void printLightWhite(const char *text) { printf("\033[0;37m%s\033[0m\n", text); }
 
 // Bold colors
