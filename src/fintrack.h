@@ -1,6 +1,6 @@
 /**
  * @file Fintrack.h
- * @author Vivek Singh, Mohd. Hamza Ansari
+ * @author Vivek Singh
  * @brief
  * The FinTrack - "Expense and Budget Analyzer" is a command-line interface (CLI)application developed in C that helps users track, analyze, and manage their personal finances. It allows users to input and categorize their daily expenses, set budget limits, and receive personalized feedback on their spending habits. The application generates detailed reports on how well users are adhering to their budget and offers
 suggestions for better financial management
