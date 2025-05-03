@@ -162,11 +162,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## 📬 **Contact**
-
-For any inquiries or feedback, feel free to reach out:
-- **Developer**: Vivek Kumar Singh
-- **Email**: [vihixi50@gmail.com](mailto:vihixi50@gmail.com)
-- **GitHub**: [@vivek081202](https://github.com/vivek081202)
-
-
+### Designed and Developed by:
+> **Vivek Kumar Singh**
+> [LinkedIn](https://www.linkedin.com/in/vivek-singh-858941201/)
